@@ -1,4 +1,4 @@
-# egen-be-challenge
+# egen-by-challenge
 Restful Webservice using Java Spark Framework
 
 Language: Java
